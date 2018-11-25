@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "765752489833",
+    "firebase_url": "https://flashfood-ce894.firebaseio.com",
+    "project_id": "flashfood-ce894",
+    "storage_bucket": "flashfood-ce894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765752489833:android:7cd10963e9a36d10",
+        "android_client_info": {
+          "package_name": "chain.map.warriors.chainstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765752489833-f52bsq0u97k8c541quntme3c9tltkktm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chain.map.warriors.chainstore",
+            "certificate_hash": "9d4acf9184f8446eb032902d0964baf9fef4b517"
+          }
+        },
+        {
+          "client_id": "765752489833-ce934ssr0n6o517hmllk5iq4f28thc1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJDjDSh18zdcxZr6skWr_LOLF_tF3W7cg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765752489833-ce934ssr0n6o517hmllk5iq4f28thc1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765752489833:android:d585b55c2a0f0af5",
+        "android_client_info": {
+          "package_name": "com.example.tinh.flashfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765752489833-a9pvtlb6os80bbiqofgr0r1olvu828mh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tinh.flashfood",
+            "certificate_hash": "9d4acf9184f8446eb032902d0964baf9fef4b517"
+          }
+        },
+        {
+          "client_id": "765752489833-ce934ssr0n6o517hmllk5iq4f28thc1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJDjDSh18zdcxZr6skWr_LOLF_tF3W7cg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765752489833-ce934ssr0n6o517hmllk5iq4f28thc1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765752489833:android:8d78976f9b1d1b64",
+        "android_client_info": {
+          "package_name": "map.warriors.uberapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765752489833-kqbgm8l2aj7q76r7j349vfolkokqndli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "map.warriors.uberapp",
+            "certificate_hash": "9d4acf9184f8446eb032902d0964baf9fef4b517"
+          }
+        },
+        {
+          "client_id": "765752489833-ce934ssr0n6o517hmllk5iq4f28thc1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJDjDSh18zdcxZr6skWr_LOLF_tF3W7cg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765752489833-ce934ssr0n6o517hmllk5iq4f28thc1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

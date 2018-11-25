@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ChainStore</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="login">Login</string>
+    <string name="header">header</string>
+    <string name="choose">Who are you ?</string>
+    <string name="shipper">Shipper</string>
+    <string name="store">Store</string>
+    <string name="title_activity_store_map_activity">Map</string>
+    <string name="title_activity_shipper_map_activity">Map</string>
+    <string name="gps_network_not_enabled">Please sure GPS is enable</string>
+    <string name="open_location_settings">Setting</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Exit">Press back again to exit</string>
+    <string name="from_to">From - To: </string>
+    <string name="distance">Distance: </string>
+    <string name="time">Time: </string>
+    <string name="name">Name: </string>
+    <string name="phone">Phone: </string>
+    <string name="destination">Destination: </string>
+</resources>

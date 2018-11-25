@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="stroke_width">0.5dp</dimen>
+    <dimen name="smallestX">2dp</dimen>
+    <dimen name="smallestXX">1dp</dimen>
+    <dimen name="smallest">5dp</dimen>
+    <dimen name="small">10dp</dimen>
+    <dimen name="normal">15dp</dimen>
+    <dimen name="big">20dp</dimen>
+    <dimen name="large">25dp</dimen>
+    <dimen name="size_33">33dp</dimen>
+    <dimen name="largeX">30dp</dimen>
+    <dimen name="largeXX">35dp</dimen>
+    <dimen name="largeXXX">40dp</dimen>
+    <dimen name="largeXXXX">45dp</dimen>
+    <dimen name="largeXXXXX">50dp</dimen>
+    <dimen name="largeXXXXXX">55dp</dimen>
+    <dimen name="size_50">50dp</dimen>
+    <dimen name="size_60">60dp</dimen>
+    <dimen name="size_70">70dp</dimen>
+    <dimen name="size_80">80dp</dimen>
+    <dimen name="size_90">90dp</dimen>
+    <dimen name="size_100">100dp</dimen>
+    <dimen name="size_110">110dp</dimen>
+    <dimen name="size_120">120dp</dimen>
+    <dimen name="size_130">130dp</dimen>
+    <dimen name="size_150">150dp</dimen>
+    <dimen name="size_160">160dp</dimen>
+    <dimen name="size_180">180dp</dimen>
+    <dimen name="size_200">200dp</dimen>
+    <dimen name="size_225">225dp</dimen>
+    <dimen name="size_250">250dp</dimen>
+    <dimen name="size_280">280dp</dimen>
+    <dimen name="size_300">300dp</dimen>
+    <dimen name="size_320">320dp</dimen>
+    <dimen name="size_350">350dp</dimen>
+    <dimen name="size_400">400dp</dimen>
+    <dimen name="size_420">420dp</dimen>
+
+    <dimen name="w_logo_splash">230dp</dimen>
+    <dimen name="h_logo_splash">85dp</dimen>
+    <dimen name="font_smallest">8sp</dimen>
+    <dimen name="font_small">10sp</dimen>
+    <dimen name="font_small_11">11sp</dimen>
+    <dimen name="font_normal">11sp</dimen>
+    <dimen name="font_big">14sp</dimen>
+    <dimen name="font_large">16sp</dimen>
+    <dimen name="font_largeX">18sp</dimen>
+    <dimen name="font_largeXX">20sp</dimen>
+    <dimen name="font_largeXXX">22sp</dimen>
+    <dimen name="font_largeXXXX">24sp</dimen>
+    <dimen name="font_largeXXXXX">26sp</dimen>
+    <dimen name="font_largeXXXXXX">28sp</dimen>
+    <dimen name="font_largeXXXXXXX">30sp</dimen>
+    <dimen name="font_biglarge">40sp</dimen>
+
+    <dimen name="font_supper">50sp</dimen>
+
+
+    <dimen name="size_img_new">120dp</dimen>
+
+    <dimen name="size_icon_date">20dp</dimen>
+    <dimen name="h_title_schedule">35dp</dimen>
+    <dimen name="size_icon_down">10dp</dimen>
+    <dimen name="size_avatar">70dp</dimen>
+    <dimen name="edit_icon">15dp</dimen>
+    <dimen name="add_icon">35dp</dimen>
+    <dimen name="h_process">90dp</dimen>
+    <dimen name="w_process">10dp</dimen>
+
+    <dimen name="size_ava_order">30dp</dimen>
+    <dimen name="h_image_notification">230dp</dimen>
+    <dimen name="h_type_detail_noti">35dp</dimen>
+
+    <dimen name="h_header_dialog">40dp</dimen>
+    <dimen name="radius">5dp</dimen>
+    <dimen name="margin_6">6dp</dimen>
+    <dimen name="radius_max">25dp</dimen>
+
+    <dimen name="note">70dp</dimen>
+    <dimen name="h_button">40dp</dimen>
+    <dimen name="h_edittext">40dp</dimen>
+    <dimen name="h_button_45">45dp</dimen>
+    <dimen name="h_dialog">300dp</dimen>
+    <dimen name="w_dialog">280dp</dimen>
+    <dimen name="h_combine_chart">250dp</dimen>
+    <dimen name="ic_order_new">20dp</dimen>
+    <dimen name="avatar_size_uploading">100dp</dimen>
+    <dimen name="h_chart">240dp</dimen>
+
+    <dimen name="ic_option_h">48dp</dimen>
+    <dimen name="ic_option_w">12dp</dimen>
+    <dimen name="h_denied">100dp</dimen>
+    <dimen name="month_year_item_h">40dp</dimen>
+    <dimen name="month_year_item_50">50dp</dimen>
+    <dimen name="list_month_year_item_h">120dp</dimen>
+    <dimen name="h_bottom">100dp</dimen>
+    <dimen name="size_sub_action">60dp</dimen>
+    <dimen name="size_action">80dp</dimen>
+
+    <dimen name="width_table">45dp</dimen>
+    <dimen name="height_table">30dp</dimen>
+    <dimen name="width_progressbar">150dp</dimen>
+    <dimen name="height_button">40dp</dimen>
+
+    <dimen name="margin_smallX">5dp</dimen>
+    <dimen name="margin_smallXX">3dp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+
+    <dimen name="margin_normal">20dp</dimen>
+    <dimen name="margin_big">30dp</dimen>
+    <dimen name="margin_large">40dp</dimen>
+    <dimen name="margin_largex">45dp</dimen>
+    <dimen name="height_item_ordered">50dp</dimen>
+
+    <dimen name="font_largexxxx">25sp</dimen>
+    <dimen name="font_largexxxxx">35sp</dimen>
+    <dimen name="font_largexxxxxx">40sp</dimen>
+    <dimen name="corner">10dp</dimen>
+    <dimen name="cornerX">10dp</dimen>
+    <dimen name="height_toolbar">40dp</dimen>
+
+    <dimen name="space_600">600dp</dimen>
+
+</resources>

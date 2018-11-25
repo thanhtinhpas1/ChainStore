@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="blue_1">#eae9fe</color>
+    <color name="blue_2">#ccc8fc</color>
+    <color name="blue_3">#ada8fb</color>
+    <color name="blue_4">#8f87f9</color>
+    <color name="blue_5">#7067f8</color>
+
+    <color name="red">#d91c1c</color>
+    <color name="green">#00ff00</color>
+    <color name="light_blue">#13BFFF</color>
+
+    <color name="gray">#6E6E6F</color>
+    <color name="black_background">#2C2D2E</color>
+    <color name="rocket_fire">#EFC75E</color>
+    <color name="color_main">#78019a</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBgProfile">#FFBDBD</color>
+    <color name="flat_green">#639E42</color>
+    <color name="black">#000000</color>
+    <color name="black_70">#B3000000</color>
+    <color name="grey_70">#B3e7e4e4</color>
+    <color name="purple">#8925A4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#0033b5e5</color>
+    <color name="white_90">#90ffffff</color>
+    <color name="white_50">#50ffffff</color>
+    <color name="white_30">#30ffffff</color>
+    <color name="grey">#7B7B7B</color>
+    <color name="silver">#e7e4e4</color>
+    <color name="silver_grey">#C0C0C0</color>
+    <color name="nobel">#9A9A9A</color>
+    <color name="dim_gray">#626262</color>
+    <color name="grey_light">#F2F2F2</color>
+    <color name="orange">#F5A623</color>
+    <color name="orange_dark">#DBA901</color>
+    <color name="green_light">#7ED321</color>
+    <color name="blue">#4A90E2</color>
+    <color name="grey_bg">#f0f2f4</color>
+    <color name="red_calendar">#ff0000</color>
+    <color name="yellow">#f8ff37</color>
+    <color name="yellow_light">#FFFF00</color>
+    <color name="green_dark">#1CC436</color>
+    <color name="gray_line">#f6f6f6</color>
+    <color name="gray_darkxx">#414141</color>
+    <color name="bg_red">#da4453</color>
+    <color name="gray_dark">#c9c9ce</color>
+    <color name="gray_darkx">#bcb8b8</color>
+
+    <color name="toolbar">#3c4256</color>
+    <color name="toolbar_h">#393e4e</color>
+
+</resources>
